@@ -30,4 +30,4 @@ bash setup.sh
 - [wasm.rip](https://wasm.rip) - game source
 
 ## lisence
-this project ins protected by the [GNU Affero General Public License 3.0](LISENCE)
+this project ins protected by the [GNU Affero General Public License 3.0](LICENSE)
