@@ -25,9 +25,9 @@ bash setup.sh
 
 ## credits
 
-[lyra](https://github.com/gayq/lyra) - inspo for most of the site and also formerly waves which was inspo for blackwaves
-[selenite](https://selenite.cc) - most of the og ui designs (changed)
-[wasm.rip](https://wasm.rip) - game source
+- [lyra](https://github.com/gayq/lyra) - inspo for most of the site and also formerly waves which was inspo for blackwaves
+- [selenite](https://selenite.cc) - most of the og ui designs (changed)
+- [wasm.rip](https://wasm.rip) - game source
 
 ## lisence
 this project ins protected by the [GNU Affero General Public License 3.0](LISENCE)
