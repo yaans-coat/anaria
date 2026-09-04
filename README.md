@@ -12,7 +12,7 @@ a sick web proxy
 - very cool...
 
 ## self-hosting
-(sorry for linux only support, but i hate windows slop)
+(sorry for linux only support, but i hate windows slop and someone will port this anyway)
 
 ```bash
 #cloning
