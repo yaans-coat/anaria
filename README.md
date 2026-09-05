@@ -11,6 +11,10 @@ a sick web proxy
 - duckduckgo search
 - very cool...
 
+## live instance
+
+[anaria!](https://anaria.fun)
+
 ## self-hosting
 (sorry for linux only support, but i hate windows slop and someone will port this anyway... i think)
 
