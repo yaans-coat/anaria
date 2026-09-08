@@ -474,7 +474,7 @@
             window.addEventListener("load", () => navigator.serviceWorker.register("/uv/sw.js"));
         }
         const connection = new BareMux.BareMuxConnection("/baremux/worker.js");
-        const wispUrl = (location.protocol === "https:" ? "wss" : "ws") + "://" + location.host + "/wisp/";
+        const wispUrl = "wss://wisp.mercurywork.shop/wisp/";
 
         const iframeWindow = document.getElementById("iframeWindow");
         const loader = document.getElementById("loaderOverlay");
