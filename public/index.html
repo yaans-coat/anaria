@@ -545,7 +545,7 @@
                 await connection.setTransport("/epoxy/index.js", [{ wisp: wispUrl }]);
             }
 
-            iframeWindow.src = __uv$config.prefix + __uv$config.encodeUrl(url);
+            iframeWindow.src = "/uv/service/" + __uv$config.encodeUrl(url);
             setTimeout(() => loader.classList.remove('active'), 2500);
         }
 
