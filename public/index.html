@@ -541,10 +541,6 @@
             switchView("browser");
             document.getElementById("browserSearch").value = url;
 
-            if (!await connection.getTransport()) {
-                await connection.setTransport("/epoxy/index.js", [{ wisp: wispUrl }]);
-            }
-
             iframeWindow.src = "/uv/service/" + __uv$config.encodeUrl(url);
             setTimeout(() => loader.classList.remove('active'), 2500);
         }
