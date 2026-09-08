@@ -542,7 +542,7 @@
             document.getElementById("browserSearch").value = url;
 
             if (!await connection.getTransport()) {
-                await connection.setTransport("/epoxy/index.mjs", [{ wisp: wispUrl }]);
+                await connection.setTransport("/epoxy/index.js", [{ wisp: wispUrl }]);
             }
 
             iframeWindow.src = __uv$config.prefix + __uv$config.encodeUrl(url);
