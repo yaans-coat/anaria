@@ -546,7 +546,6 @@
             }
 
             iframeWindow.src = __uv$config.prefix + __uv$config.encodeUrl(url);
-            iframeWindow.onload = () => loader.classList.remove('active');
             setTimeout(() => loader.classList.remove('active'), 2500);
         }
 
