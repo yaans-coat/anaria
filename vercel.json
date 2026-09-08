@@ -1,4 +1,3 @@
 {
-  "cleanUrls": ["index.html"],
-  "trailingSlash": false
+  "cleanUrls": true
 }
