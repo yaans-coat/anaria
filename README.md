@@ -1,4 +1,4 @@
-# anaria!
+<h1 align="center"> anaria!</h1>
 
 ![anariav3](github/Screenshot.png)
 
