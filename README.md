@@ -42,11 +42,15 @@ node server.js
 
 please consider starring the repo!
 
+---
+
 you must not
 - modify the [license](LICENSE)
 - claim this code is yours unless you actually do something to change it in drastic ways
 - use the raw code without credit (means removing the code that displays the contact, dmca, github repo, etc.)
 - steal the code
+
+---
 
 you may
 - deploy with no modifications
