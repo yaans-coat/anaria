@@ -40,3 +40,29 @@ node server.js
 
 ## if you fork this repo
 
+please consider starring the repo!
+
+you must not
+- modify the [license](LICENSE)
+- claim this code is yours unless you actually do something to change it in drastic ways
+- use the raw code without credit (means removing the code that displays the contact, dmca, github repo, etc.)
+- steal the code
+
+you may
+- deploy with no modifications
+- deploy with modifications (change-log required and states this is not the official version)
+- do actions that are defined by the license
+
+to abide all stated rules, add a disclaimer like this:
+
+---
+
+## fork info
+
+this repo was forked from [yaans-coat/anaria](https://github.com/yaans-coat/anaria). all code was made by the project owner (yaans-coat). the following changes have been made to this fork:
+
+* Change 1
+* Change 2
+* Change 3
+
+---
