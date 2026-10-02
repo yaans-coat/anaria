@@ -18,3 +18,7 @@
 ## self-hosting
 
 anaria is simple and easy to self host
+
+# method 1 - online
+
+[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/yaans-coat/anariav3)
