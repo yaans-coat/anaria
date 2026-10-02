@@ -1,7 +1,7 @@
 <h1 align="center">anariav3!</h1>
 
 <p align="center">
-  <img alt="image" src="[anariav3](Screenshot.png)/>
+  <img alt="image" src="Screenshot.png/>
 </p>
 
 <p align="center">
