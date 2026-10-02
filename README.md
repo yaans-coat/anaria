@@ -1,7 +1,7 @@
 <h1 align="center">anariav3!</h1>
 
 <p align="center">
-  <img alt="image" src="Screenshot.png/>
+  <img alt="image" src="(https://github.com/yaans-coat/anariav3/blob/9270a1dffd9681b047aaba1bb862e727d7ece00c/Screenshot.png)/>
 </p>
 
 <p align="center">
