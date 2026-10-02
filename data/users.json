@@ -1,0 +1,755 @@
+{
+	"users": {
+		"tester": {
+			"username": "tester",
+			"salt": "7ee16be2742d35a3f692d768b968ac20",
+			"hash": "7ca5ad9ecc053a92a109aae841fecae94385b20d705d981a6117aa90a7cae8f1019e18ae550f453055cd8455535c664d91c6c8e404020358bff104189987811b",
+			"createdAt": 1790925180635,
+			"updatedAt": 1790925180635,
+			"data": {},
+			"friends": [
+				"smoketest"
+			]
+		},
+		"smoketest": {
+			"username": "smoketest",
+			"salt": "5259954a596796c287774a095150d3f8",
+			"hash": "9691713bc5d61274bc9367c96e6c2a0f12dfe5f7e5695470e45dd7c1ed7d94c69c7f11a17d69793b93009947d131c3d8c6d848e108c093a579f7b7820e5eb3d0",
+			"createdAt": 1790926816624,
+			"updatedAt": 1790980823917,
+			"data": {
+				"app": "anaria",
+				"version": 3,
+				"exportedAt": "2026-10-02T22:40:23.910Z",
+				"username": "smoketest",
+				"password": "pass1234",
+				"settings": {
+					"searchEngine": "https://duckduckgo.com/?q=%s",
+					"homeUrl": "",
+					"uiStyle": "balanced",
+					"notifications": false,
+					"theme": "nord",
+					"animations": true,
+					"snow": true,
+					"background": true,
+					"animSpeed": "normal",
+					"cloakPreset": "custom",
+					"cloakTitle": "",
+					"cloakFavicon": "",
+					"panicKey": "escape",
+					"panicUrl": "https://www.google.com/",
+					"saveHistory": true,
+					"saveCookies": true,
+					"preloadSearch": true,
+					"transport": "libcurl",
+					"wispUrl": ""
+				},
+				"theme": "nord",
+				"browsingHistory": [
+					{
+						"url": "http://localhost:8080/src/seraph/seraph/slope/index.html",
+						"title": "",
+						"at": 1790953046254
+					},
+					{
+						"url": "https://play2048.co/",
+						"title": "",
+						"at": 1790930826082
+					},
+					{
+						"url": "https://play2048.co/",
+						"title": "",
+						"at": 1790927052091
+					},
+					{
+						"url": "https://play2048.co/",
+						"title": "",
+						"at": 1790926802597
+					}
+				],
+				"cookies": "",
+				"bookmarks": [],
+				"gamesPlayed": [
+					{
+						"title": "10 minutes till dawn",
+						"url": "/g/10-minutes-till-dawn/index.html",
+						"plays": 7,
+						"at": 1790980806609
+					},
+					{
+						"title": "Slope",
+						"url": "/src/seraph/seraph/slope/index.html",
+						"plays": 1,
+						"at": 1790953045463
+					},
+					{
+						"title": "2048",
+						"url": "https://play2048.co/",
+						"plays": 3,
+						"at": 1790930825344
+					}
+				],
+				"aiChats": {
+					"model": "nvidia/nemotron-3-super-120b-a12b:free",
+					"messages": [
+						{
+							"role": "user",
+							"content": "reply with the single word ok"
+						},
+						{
+							"role": "assistant",
+							"content": "ok"
+						}
+					],
+					"updatedAt": 1790980798403
+				},
+				"musicSaved": [],
+				"chats": null,
+				"cloudsync": {
+					"username": "smoketest",
+					"passcode": "pass1234",
+					"token": "3e3907ec4726036d81a2dcd724d8e57c4005129ec12b44129981fb075e50aa93",
+					"lastSync": 1790980821006
+				},
+				"data": {
+					"gamesPlayed": [
+						{
+							"title": "10 minutes till dawn",
+							"url": "/g/10-minutes-till-dawn/index.html",
+							"plays": 7,
+							"at": 1790980806609
+						},
+						{
+							"title": "Slope",
+							"url": "/src/seraph/seraph/slope/index.html",
+							"plays": 1,
+							"at": 1790953045463
+						},
+						{
+							"title": "2048",
+							"url": "https://play2048.co/",
+							"plays": 3,
+							"at": 1790930825344
+						}
+					],
+					"settings": {
+						"searchEngine": "https://duckduckgo.com/?q=%s",
+						"homeUrl": "",
+						"uiStyle": "balanced",
+						"notifications": false,
+						"theme": "nord",
+						"animations": true,
+						"snow": true,
+						"background": true,
+						"animSpeed": "normal",
+						"cloakPreset": "custom",
+						"cloakTitle": "",
+						"cloakFavicon": "",
+						"panicKey": "escape",
+						"panicUrl": "https://www.google.com/",
+						"saveHistory": true,
+						"saveCookies": true,
+						"preloadSearch": true,
+						"transport": "libcurl",
+						"wispUrl": ""
+					},
+					"history": [
+						{
+							"url": "http://localhost:8080/src/seraph/seraph/slope/index.html",
+							"title": "",
+							"at": 1790953046254
+						},
+						{
+							"url": "https://play2048.co/",
+							"title": "",
+							"at": 1790930826082
+						},
+						{
+							"url": "https://play2048.co/",
+							"title": "",
+							"at": 1790927052091
+						},
+						{
+							"url": "https://play2048.co/",
+							"title": "",
+							"at": 1790926802597
+						}
+					],
+					"aiChats": {
+						"model": "nvidia/nemotron-3-super-120b-a12b:free",
+						"messages": [
+							{
+								"role": "user",
+								"content": "reply with the single word ok"
+							},
+							{
+								"role": "assistant",
+								"content": "ok"
+							}
+						],
+						"updatedAt": 1790980798403
+					},
+					"cloudsync": {
+						"username": "smoketest",
+						"passcode": "pass1234",
+						"token": "3e3907ec4726036d81a2dcd724d8e57c4005129ec12b44129981fb075e50aa93",
+						"lastSync": 1790980821006
+					},
+					"gamesSource": "anaria-local",
+					"musicLiked": []
+				}
+			}
+		},
+		"guest": {
+			"username": "guest",
+			"salt": "147218641078f5dd9f565f955e23d284",
+			"hash": "e37d4c14d37c71c48c59eb2dfce8950a675214c498a1019966b050dea4ae9936e365f71ad3854a33286a97e5a8c43fb4940bbe9feab40771d6e5fa55cfdab7f6",
+			"createdAt": 1790931244278,
+			"updatedAt": 1790937129439,
+			"data": {
+				"app": "anaria",
+				"version": 3,
+				"exportedAt": "2026-10-02T10:32:09.432Z",
+				"username": "guest",
+				"password": "guest",
+				"settings": {
+					"searchEngine": "https://duckduckgo.com/?q=%s",
+					"homeUrl": "",
+					"uiStyle": "balanced",
+					"notifications": true,
+					"theme": "grape",
+					"animations": true,
+					"snow": true,
+					"animSpeed": "normal",
+					"cloakPreset": "custom",
+					"cloakTitle": "anariav3!",
+					"cloakFavicon": "",
+					"panicKey": "f2",
+					"panicUrl": "",
+					"saveHistory": true,
+					"saveCookies": true,
+					"preloadSearch": true,
+					"transport": "libcurl",
+					"wispUrl": ""
+				},
+				"theme": "grape",
+				"browsingHistory": [
+					{
+						"url": "https://vidsrc.ru/embed/movie/19404?autoplay=true&colour=00ff9d&pausescreen=true",
+						"title": "",
+						"at": 1790937084293
+					},
+					{
+						"url": "https://www.youtube.com/",
+						"title": "",
+						"at": 1790932527832
+					},
+					{
+						"url": "https://duckduckgo.com/?q=hello&ia=web",
+						"title": "",
+						"at": 1790931814050
+					},
+					{
+						"url": "https://duckduckgo.com/?q=hello",
+						"title": "",
+						"at": 1790931812623
+					},
+					{
+						"url": "https://www.tiktok.com/",
+						"title": "",
+						"at": 1790931793086
+					},
+					{
+						"url": "https://www.youtube.com/",
+						"title": "",
+						"at": 1790931077559
+					},
+					{
+						"url": "https://play.tetris.com/",
+						"title": "",
+						"at": 1790929783718
+					},
+					{
+						"url": "https://play2048.co/",
+						"title": "",
+						"at": 1790929770134
+					},
+					{
+						"url": "https://www.youtube.com/",
+						"title": "",
+						"at": 1790925868669
+					},
+					{
+						"url": "https://duckduckgo.com/?q=ddg&ia=web",
+						"title": "",
+						"at": 1790917210157
+					},
+					{
+						"url": "https://duckduckgo.com/?q=ddg",
+						"title": "",
+						"at": 1790917205235
+					},
+					{
+						"url": "https://duckduckgo.com/",
+						"title": "duckduckgo.com",
+						"at": 1788765104766
+					},
+					{
+						"url": "https://www.google.com/",
+						"title": "google.com",
+						"at": 1788765097764
+					},
+					{
+						"url": "https://www.youtube.com/",
+						"title": "youtube.com",
+						"at": 1788764974049
+					},
+					{
+						"url": "https://www.youtube.com/?themeRefresh=1",
+						"title": "youtube.com",
+						"at": 1788764973955
+					},
+					{
+						"url": "https://www.youtube.com/",
+						"title": "youtube.com",
+						"at": 1788764971642
+					},
+					{
+						"url": "https://www.youtube.com/?themeRefresh=1",
+						"title": "youtube.com",
+						"at": 1788764971638
+					},
+					{
+						"url": "https://www.youtube.com/",
+						"title": "youtube.com",
+						"at": 1788764969856
+					}
+				],
+				"cookies": "",
+				"bookmarks": [],
+				"gamesPlayed": [
+					{
+						"title": "tetris",
+						"url": "https://tetris.com/play-tetris",
+						"plays": 1,
+						"at": 1790929775054
+					},
+					{
+						"title": "2048",
+						"url": "https://play2048.co/",
+						"plays": 1,
+						"at": 1790929769397
+					},
+					{
+						"title": "geometry dash",
+						"url": "https://geometrydash.io/",
+						"plays": 1,
+						"at": 1790929765581
+					}
+				],
+				"aiChats": {
+					"model": "nvidia/nemotron-3-super-120b-a12b:free",
+					"messages": [],
+					"updatedAt": 1790930094645
+				},
+				"musicSaved": [],
+				"chats": [
+					{
+						"id": "anaria",
+						"title": "anaria",
+						"ai": true,
+						"messages": [
+							{
+								"me": false,
+								"text": "hey! i'm anaria — ask me anything.",
+								"at": 1790925213457
+							},
+							{
+								"me": true,
+								"text": "Hello!",
+								"at": 1790925217355
+							},
+							{
+								"me": false,
+								"text": "Hello! How can I help you today?",
+								"at": 1790925223429
+							}
+						]
+					}
+				],
+				"cloudsync": {
+					"username": "guest",
+					"passcode": "guest",
+					"token": "582c69ce68cf0442304360b8cd2d889d91edc47af51c4fd0c782f1d2a710bd76",
+					"lastSync": 1790931244284
+				},
+				"data": {
+					"gameSource": "ckv",
+					"gamesPlayed": [
+						{
+							"title": "tetris",
+							"url": "https://tetris.com/play-tetris",
+							"plays": 1,
+							"at": 1790929775054
+						},
+						{
+							"title": "2048",
+							"url": "https://play2048.co/",
+							"plays": 1,
+							"at": 1790929769397
+						},
+						{
+							"title": "geometry dash",
+							"url": "https://geometrydash.io/",
+							"plays": 1,
+							"at": 1790929765581
+						}
+					],
+					"settings": {
+						"searchEngine": "https://duckduckgo.com/?q=%s",
+						"homeUrl": "",
+						"uiStyle": "balanced",
+						"notifications": true,
+						"theme": "grape",
+						"animations": true,
+						"snow": true,
+						"animSpeed": "normal",
+						"cloakPreset": "custom",
+						"cloakTitle": "anariav3!",
+						"cloakFavicon": "",
+						"panicKey": "f2",
+						"panicUrl": "",
+						"saveHistory": true,
+						"saveCookies": true,
+						"preloadSearch": true,
+						"transport": "libcurl",
+						"wispUrl": ""
+					},
+					"gamesSource": "all",
+					"aiChats": {
+						"model": "nvidia/nemotron-3-super-120b-a12b:free",
+						"messages": [],
+						"updatedAt": 1790930094645
+					},
+					"history": [
+						{
+							"url": "https://vidsrc.ru/embed/movie/19404?autoplay=true&colour=00ff9d&pausescreen=true",
+							"title": "",
+							"at": 1790937084293
+						},
+						{
+							"url": "https://www.youtube.com/",
+							"title": "",
+							"at": 1790932527832
+						},
+						{
+							"url": "https://duckduckgo.com/?q=hello&ia=web",
+							"title": "",
+							"at": 1790931814050
+						},
+						{
+							"url": "https://duckduckgo.com/?q=hello",
+							"title": "",
+							"at": 1790931812623
+						},
+						{
+							"url": "https://www.tiktok.com/",
+							"title": "",
+							"at": 1790931793086
+						},
+						{
+							"url": "https://www.youtube.com/",
+							"title": "",
+							"at": 1790931077559
+						},
+						{
+							"url": "https://play.tetris.com/",
+							"title": "",
+							"at": 1790929783718
+						},
+						{
+							"url": "https://play2048.co/",
+							"title": "",
+							"at": 1790929770134
+						},
+						{
+							"url": "https://www.youtube.com/",
+							"title": "",
+							"at": 1790925868669
+						},
+						{
+							"url": "https://duckduckgo.com/?q=ddg&ia=web",
+							"title": "",
+							"at": 1790917210157
+						},
+						{
+							"url": "https://duckduckgo.com/?q=ddg",
+							"title": "",
+							"at": 1790917205235
+						},
+						{
+							"url": "https://duckduckgo.com/",
+							"title": "duckduckgo.com",
+							"at": 1788765104766
+						},
+						{
+							"url": "https://www.google.com/",
+							"title": "google.com",
+							"at": 1788765097764
+						},
+						{
+							"url": "https://www.youtube.com/",
+							"title": "youtube.com",
+							"at": 1788764974049
+						},
+						{
+							"url": "https://www.youtube.com/?themeRefresh=1",
+							"title": "youtube.com",
+							"at": 1788764973955
+						},
+						{
+							"url": "https://www.youtube.com/",
+							"title": "youtube.com",
+							"at": 1788764971642
+						},
+						{
+							"url": "https://www.youtube.com/?themeRefresh=1",
+							"title": "youtube.com",
+							"at": 1788764971638
+						},
+						{
+							"url": "https://www.youtube.com/",
+							"title": "youtube.com",
+							"at": 1788764969856
+						}
+					],
+					"active-theme": {
+						"id": "grape",
+						"mode": "dark",
+						"vars": {
+							"--bg": "#16101f",
+							"--bg-alt": "#1f1730",
+							"--surface": "#2a1f42",
+							"--fg": "#efeaf8",
+							"--fg-dim": "#878190",
+							"--line": "#cfcadb",
+							"--accent": "#b98ff5",
+							"--accent-2": "#7c4dde",
+							"--on-accent": "#ffffff",
+							"--glass": "rgba(42, 31, 66, 0.62)",
+							"--glass-strong": "rgba(42, 31, 66, 0.82)",
+							"--accent-soft": "rgba(185, 143, 245, 0.16)",
+							"--accent-glow": "rgba(185, 143, 245, 0.18)",
+							"--accent-2-glow": "rgba(124, 77, 222, 0.16)",
+							"--shadow": "rgba(0, 0, 0, 0.45)"
+						}
+					},
+					"recentGames": [
+						{
+							"id": "cloud:jy0108",
+							"name": "Grand Theft Auto V",
+							"src": "cloud://jy0108"
+						},
+						{
+							"id": "cloud:jy0402",
+							"name": "Minecraft:Dungeons",
+							"src": "cloud://jy0402"
+						},
+						{
+							"id": "ckv:grandtheftautoiii",
+							"name": "grandtheftautoiii",
+							"src": "/games/ckv/ckv/grandtheftautoiii.html"
+						},
+						{
+							"id": "ckv:buildaplane",
+							"name": "buildaplane",
+							"src": "/games/ckv/ckv/buildaplane.html"
+						},
+						{
+							"id": "ckv:celestegame",
+							"name": "celestegame",
+							"src": "/games/ckv/ckv/celestegame.html"
+						}
+					],
+					"setup": {
+						"done": true
+					},
+					"cloudsync": {
+						"username": "guest",
+						"passcode": "guest",
+						"token": "582c69ce68cf0442304360b8cd2d889d91edc47af51c4fd0c782f1d2a710bd76",
+						"lastSync": 1790931244284
+					},
+					"musicLibrary": {
+						"liked": [],
+						"recent": [
+							{
+								"id": "pjhyVVKs39A",
+								"title": "the ting goes jenny sparks remix",
+								"artist": "sometortoise",
+								"artwork": "https://i.ytimg.com/vi/pjhyVVKs39A/hqdefault.jpg",
+								"duration": 25,
+								"explicit": false,
+								"source": "youtube",
+								"permalinkUrl": "https://youtube.com/watch?v=pjhyVVKs39A"
+							},
+							{
+								"id": "POjo0MX3huk",
+								"title": "The ting goes jenny sparks remix - FULL SONG",
+								"artist": "Zacky Sena",
+								"artwork": "https://i.ytimg.com/vi/POjo0MX3huk/hqdefault.jpg",
+								"duration": 154,
+								"explicit": false,
+								"source": "youtube",
+								"permalinkUrl": "https://youtube.com/watch?v=POjo0MX3huk"
+							},
+							{
+								"id": "RBumgq5yVrA",
+								"title": "Passenger | Let Her Go (Official Video)",
+								"artist": "Passenger",
+								"artwork": "https://i.ytimg.com/vi/RBumgq5yVrA/hqdefault.jpg",
+								"duration": 255,
+								"explicit": false,
+								"source": "youtube",
+								"permalinkUrl": "https://youtube.com/watch?v=RBumgq5yVrA"
+							},
+							{
+								"id": "HTcL9WkB_wg",
+								"title": "Passenger - Let Her Go (Feat. Ed Sheeran - Anniversary Edition) [Official Video]",
+								"artist": "Passenger",
+								"artwork": "https://i.ytimg.com/vi/HTcL9WkB_wg/hqdefault.jpg",
+								"duration": 286,
+								"explicit": false,
+								"source": "youtube",
+								"permalinkUrl": "https://youtube.com/watch?v=HTcL9WkB_wg"
+							},
+							{
+								"id": "75qIYkMUGVE",
+								"title": "Dominic Fike - White Keys",
+								"artist": "LatinHype",
+								"artwork": "https://i.ytimg.com/vi/75qIYkMUGVE/hqdefault.jpg",
+								"duration": 145,
+								"explicit": false,
+								"source": "youtube",
+								"permalinkUrl": "https://youtube.com/watch?v=75qIYkMUGVE"
+							}
+						],
+						"queue": [],
+						"index": -1,
+						"playlists": [],
+						"volume": 1,
+						"muted": false,
+						"shuffle": false,
+						"repeat": "off",
+						"speed": "1"
+					},
+					"chats": [
+						{
+							"id": "anaria",
+							"title": "anaria",
+							"ai": true,
+							"messages": [
+								{
+									"me": false,
+									"text": "hey! i'm anaria — ask me anything.",
+									"at": 1790925213457
+								},
+								{
+									"me": true,
+									"text": "Hello!",
+									"at": 1790925217355
+								},
+								{
+									"me": false,
+									"text": "Hello! How can I help you today?",
+									"at": 1790925223429
+								}
+							]
+						}
+					],
+					"musicLiked": [],
+					"logs": [],
+					"gamesPrefs": {
+						"provider": "web",
+						"source": "ugs"
+					},
+					"sidebar-collapsed": false
+				}
+			}
+		}
+	},
+	"sessions": {
+		"494282b2457ec6423af07c58c520eae99f1af6016bdff153c28772c94e5c7d27": {
+			"username": "tester",
+			"expires": 1791529980636
+		},
+		"da2a96c67433d212b5d3c7d3f7ed907f3dd317570c5a22dadbfa982745b8c31d": {
+			"username": "smoketest",
+			"expires": 1791535913498
+		},
+		"65416955054756566f1853299bd78d05b5910d11abe8facbec024b14c7e02c5e": {
+			"username": "smoketest",
+			"expires": 1791535537117
+		},
+		"582c69ce68cf0442304360b8cd2d889d91edc47af51c4fd0c782f1d2a710bd76": {
+			"username": "guest",
+			"expires": 1791541929439
+		},
+		"c4af94d2eed0dbed80afc23eae59d57b9173cb320c8e718fa69647c379808972": {
+			"username": "tester",
+			"expires": 1791541138819
+		},
+		"f170a930bca5ef157503d65f88bbe5b41af6e770a28144e70acea61b2a0d260a": {
+			"username": "tester",
+			"expires": 1791541450523
+		},
+		"d5d8ce8bd4bd91f403d11bae9e733dd058ab6eb18d0946183575a325dd140e4c": {
+			"username": "tester",
+			"expires": 1791546235983
+		},
+		"ad1fa737b994b22a3ae70032cb5068a9f785ba8bcf3317e9bdfed7176996f65c": {
+			"username": "smoketest",
+			"expires": 1791557317918
+		},
+		"5a0080f3c8cd6a73cdfe75e120f44f6e2978295149f8857ffc130c6de24292e2": {
+			"username": "smoketest",
+			"expires": 1791557810023
+		},
+		"98f63bd8f0ff8a285670bdaacda5f11482fd7823980b72c738730a05c4e6ff7a": {
+			"username": "smoketest",
+			"expires": 1791557987092
+		},
+		"19c15e8b86ad1797ee11a9c5f3914556bf8b52ff622dc0a4a118c498af1acbca": {
+			"username": "smoketest",
+			"expires": 1791558052441
+		},
+		"bdcce8f1e4b2b0d43aaccb5f8426139f70f625686cd2e5db70c4465fa6ba2013": {
+			"username": "smoketest",
+			"expires": 1791581335431
+		},
+		"90dc5f5a1a5574d90936fe03512d5a43f95654875fdf67aff512279a234a027b": {
+			"username": "smoketest",
+			"expires": 1791582920023
+		},
+		"42ec5c961d95d179b3d2ad4f1e49c46e1b97fee7951955ea495fb45eb2b83640": {
+			"username": "smoketest",
+			"expires": 1791583366007
+		},
+		"f1efafcb4dbb74b6840029eb2451d11d2f22e331955c923f2e9d32a2a8e68f5f": {
+			"username": "smoketest",
+			"expires": 1791583624202
+		},
+		"12b2e137533598c0cae20b9f6d34012a2cfc549086e95c8fc5d681fc33197985": {
+			"username": "smoketest",
+			"expires": 1791584900623
+		},
+		"3e3907ec4726036d81a2dcd724d8e57c4005129ec12b44129981fb075e50aa93": {
+			"username": "smoketest",
+			"expires": 1791585623917
+		},
+		"2e6e659f6c21119b7b4ff7b6bea59673be543684bf03faf75aecd83f79bc8f5a": {
+			"username": "guest",
+			"expires": 1791586887410
+		}
+	}
+}
