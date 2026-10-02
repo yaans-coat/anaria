@@ -38,6 +38,14 @@ npm install
 node server.js
 ```
 
+## credits
+
+[bog from truffled](https://truffled.lol) - gave me the help i needed
+[x8rr from cherri](https://cherrion.top) - made some apis and tools that i use.
+[selenite.cc](https://selenite.cc) - some of the ui inspiration
+[lyra](https://lyra.zip) - the overall inspiration of anaria
+
+
 ## if you fork this repo
 
 please consider starring the repo!
