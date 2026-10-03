@@ -16,6 +16,10 @@
 - proxy
 - ai
 
+## live instance
+
+[anariaon.top](https://anariaon.top)
+
 ## self-hosting
 
 anaria is simple and easy to self host
