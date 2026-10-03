@@ -15,6 +15,8 @@
 - chatroom
 - proxy
 - ai
+- backgrounds
+- animations
 
 ## live instance
 
